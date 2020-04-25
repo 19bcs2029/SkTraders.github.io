@@ -199,6 +199,7 @@ input{
     border-radius:20px;
     padding:5px 15px;
     margin-top: 7px;
+    font-size:15px;
 }
 
 
@@ -210,6 +211,7 @@ textarea{
     border-radius:20px;
     padding:5px 15px;
     margin-top: 7px;
+    font-size:15px;
 }
 
 .comments{
